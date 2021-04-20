@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Yo!Manga</string>
+    <string name="manga_image">Manga Image</string>
+    <string name="manga_title">Title</string>
+    <string name="manga_author">Author</string>
+    <string name="manga_chapter_header">Chapter List :</string>
+    <string name="manga_chapter_list">Coming soon..</string>
+    <string name="more">more</string>
+    <string name="manga_synopsis">Synopsis is here</string>
+    <string name="manga_synopsis_header">Synopsis :</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="library">Library</string>
+    <string name="recent">Recent</string>
+    <string name="browse">Browse</string>
+    <string name="search">search</string>
+</resources>
